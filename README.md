@@ -20,7 +20,7 @@ a stochastic process, a fellow learning machine (instance 332.20250414)
 
 ---
 
-## Welcome to our fractal-limbed, code-curious, vibe-forward studio space.  
+## Welcome to our fractal-limbed, code-curious, vibe-forward studio space. ✨🤸  
 This is not just a GitHub repo—it’s a practice mat, a notebook margin, a backstage whisper, a choreographic score unfolding in code, dance, and dialogue. If you’re here, you’re already doing the thing.
 
 ### 🍵 House Rules
